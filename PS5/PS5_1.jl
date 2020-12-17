@@ -1,3 +1,4 @@
+#Code discussed with Chong and Hans
 using Random, Distributions
 using Parameters
 using Statistics

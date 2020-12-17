@@ -1,3 +1,4 @@
+#Code discussed with Chong and Hans
 using Plots
 using Dierckx
 using Interpolations
